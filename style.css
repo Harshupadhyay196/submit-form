@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+   background-color: blue;
+}
+.container{
+    border: solid 2px black;
+    margin: auto;
+    height: 100%;
+    width: 50%;
+    margin-top: 10%;
+    background-color: white;
+    border-color: rgb(234, 237, 240);
+
+
+}
+input{
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    border-color: rgb(234, 237, 240);
+}
+textarea{
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+    border-color: rgb(234, 237, 240);
+
+    
+}
+button{
+    padding: 5px;
+    margin: 10px;
+    background: blue;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+h3{
+    padding: 20px;
+    background-color: white;
+}
